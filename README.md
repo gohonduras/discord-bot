@@ -46,5 +46,5 @@ time="19190-05-05 07:519:193" level=info msg="Bot is now running, press ctrl-c t
 
 You can run all tests for the bot with:
 ```
-$ go test ./...
+$ go test ./... -v
 ```
