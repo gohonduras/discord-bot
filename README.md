@@ -1,6 +1,6 @@
 # Geeks-Honduras-GO Discord Bot
 
-[![Discord](https://user-images.githubusercontent.com/7288322/34471967-1df7808a-efbb-11e7-9088-ed0b04151291.png)](https://discord.gg/KSA7rPr)
+[![Discord](https://user-images.githubusercontent.com/7288322/34471967-1df7808a-efbb-11e7-9088-ed0b04151291.png)](https://discord.gg/bdfFKS6)
 
 This repository hosts a Discord bot for the Geeks Honduras GO Discord written in Go as a way to showcase how to write a Go project and use it for real-life tasks. The bot is extensible and allows for several cool features including:
 
